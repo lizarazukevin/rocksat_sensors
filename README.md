@@ -10,3 +10,4 @@ Welcome to the Github Repo for Rocksat's 2020
 > Adafruit DS3231 Precision RTC Breakout
 > microSD Card Reader
 > TMP102 Thermometer
+
